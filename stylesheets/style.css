@@ -1,0 +1,29 @@
+html, body {
+  /*background-color: #facade;*/
+  color: #ff0000;
+  font-family: 'Squada One', cursive;
+  text-align: center;
+  background: url(../sky_background.jpg) no-repeat;
+  background-size: cover;
+}
+
+.cast {
+  font-size: 3em;
+  color: white;
+  text-shadow: 2px 2px black;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 5em;
+  font-stretch: extra-condensed;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+video {
+  height: 854px;
+}
